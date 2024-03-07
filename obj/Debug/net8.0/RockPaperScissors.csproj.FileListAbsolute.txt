@@ -1,0 +1,14 @@
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
